@@ -73,7 +73,7 @@ There are beat journalists out there these days writing a article every few week
 
 > And so, we find ourselves at this crossroads. Regardless of which path we choose, the future of computing will be hyper-personalized. The question is whether that personalization will be in service of keeping us passively glued to screens—wading around in the shallows, stripped of agency—or whether it will enable us to direct more attention to what matters.
 
-What do you mean by this, and why is it inevitable? I would not describe someone interacting with a LLM as any more "hyper-personalized" than someone interacting with a social media feed, so I don't see increasing personalization as a inevitability in the "corporate use of LLMs in consumer media products" scenario.
+What do you mean by this, and why is it inevitable? I would not describe someone interacting with a LLM as any more computationally "hyper-personalized" than someone interacting with a social media feed, so I don't see increasing personalization as a inevitability in the "corporate use of LLMs in consumer media products" scenario.
 
 > In order to build the resonant technological future we want for ourselves, we will have to resist the seductive logic of hyper-scale, and challenge the business and cultural assumptions that hold it in place. We will have to make deliberate decisions that stand in the face of accepted best practices—rethinking the system architectures, design patterns, and business models that have undergirded the tech industry for decades.
 
