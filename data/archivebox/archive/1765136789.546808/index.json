@@ -1,0 +1,226 @@
+{
+    "archive_path": "archive/1765136789.546808",
+    "base_url": "www.ursulakleguin.com/a-rant-about-technology",
+    "basename": "a-rant-about-technology",
+    "bookmarked_date": "2025-12-07 19:46",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ursulakleguin.com/a-rant-about-technology",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ursulakleguin.com",
+        "headers_path": "headers.json",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.ursulakleguin.com",
+    "extension": "",
+    "hash": "10Y9BB78YGFFGPVGDT1P",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ursulakleguin.com/a-rant-about-technology"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:47:31.077911+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251207194713/https://www.ursulakleguin.com/a-rant-about-technology",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:46:41.670372+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--dump-dom",
+                    "https://www.ursulakleguin.com/a-rant-about-technology"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:46:41.656343+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:46:40.516864+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ursulakleguin.com"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:46:30.649887+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:46:30.408278+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://www.ursulakleguin.com/a-rant-about-technology"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:46:30.784964+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:46:30.664880+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "media": [],
+        "mercury": [],
+        "pdf": [],
+        "readability": [],
+        "screenshot": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--screenshot",
+                    "https://www.ursulakleguin.com/a-rant-about-technology"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:46:40.502969+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:46:39.208817+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/home/wesleyac/projects/notebook/data/archivebox/node_modules/single-file/cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\"--headless\", \"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)\", \"--window-size=1440,2000\"]",
+                    "https://www.ursulakleguin.com/a-rant-about-technology",
+                    "singlefile.html"
+                ],
+                "cmd_version": "0.3.31",
+                "end_ts": "2025-12-07T19:46:39.190959+00:00",
+                "index_texts": null,
+                "output": "singlefile.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:46:30.802870+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://www.ursulakleguin.com/a-rant-about-technology"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:46:30.393143+00:00",
+                "index_texts": null,
+                "output": "Ursula K. Le Guin \u2014 Ursula on Writing: A Rant about \"Techonolgy\"",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:46:30.208229+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": []
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251207194713/https://www.ursulakleguin.com/a-rant-about-technology",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": null,
+        "pdf": null,
+        "screenshot": "screenshot.png",
+        "singlefile": "singlefile.html",
+        "title": "Ursula K. Le Guin \u2014 Ursula on Writing: A Rant about \"Techonolgy\"",
+        "warc": null,
+        "wget": null
+    },
+    "link_dir": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546808",
+    "newest_archive_date": "2025-12-07T19:46:41.670372+00:00",
+    "num_failures": 0,
+    "num_outputs": 7,
+    "oldest_archive_date": "2025-12-07T19:46:30.208229+00:00",
+    "path": "/a-rant-about-technology",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "e649f629-8c22-484a-87b9-dc2602625a36",
+    "sources": [
+        "/home/wesleyac/projects/notebook/data/archivebox/sources/1765136789-import.txt"
+    ],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1765136789.546808",
+    "title": "Ursula K. Le Guin \u2014 Ursula on Writing: A Rant about \"Techonolgy\"",
+    "updated": "2025-12-07T19:46:30.205886+00:00",
+    "updated_date": "2025-12-07 19:46",
+    "url": "https://www.ursulakleguin.com/a-rant-about-technology"
+}

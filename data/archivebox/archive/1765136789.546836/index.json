@@ -1,0 +1,226 @@
+{
+    "archive_path": "archive/1765136789.546836",
+    "base_url": "en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form",
+    "basename": "Notes_on_the_Synthesis_of_Form",
+    "bookmarked_date": "2025-12-07 19:46",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=en.wikipedia.org",
+        "headers_path": "headers.json",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "en.wikipedia.org",
+    "extension": "",
+    "hash": "1VDX11R3VE75W6EAVGWN",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://web.archive.org/save/https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:51:59.896662+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:17.493138+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--dump-dom",
+                    "https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:51:17.445785+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:15.742074+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=en.wikipedia.org"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:51:06.314137+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:06.138110+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:51:06.496655+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:06.357219+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "media": [],
+        "mercury": [],
+        "pdf": [],
+        "readability": [],
+        "screenshot": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--screenshot",
+                    "https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:51:15.697774+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:13.632991+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/home/wesleyac/projects/notebook/data/archivebox/node_modules/single-file/cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\"--headless\", \"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)\", \"--window-size=1440,2000\"]",
+                    "https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form",
+                    "singlefile.html"
+                ],
+                "cmd_version": "0.3.31",
+                "end_ts": "2025-12-07T19:51:13.583445+00:00",
+                "index_texts": null,
+                "output": "singlefile.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:06.541924+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:51:06.091477+00:00",
+                "index_texts": null,
+                "output": "Notes on the Synthesis of Form - Wikipedia",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:05.941510+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": []
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": null,
+        "pdf": null,
+        "screenshot": "screenshot.png",
+        "singlefile": "singlefile.html",
+        "title": "Notes on the Synthesis of Form - Wikipedia",
+        "warc": null,
+        "wget": null
+    },
+    "link_dir": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546836",
+    "newest_archive_date": "2025-12-07T19:51:17.493138+00:00",
+    "num_failures": 1,
+    "num_outputs": 6,
+    "oldest_archive_date": "2025-12-07T19:51:05.941510+00:00",
+    "path": "/wiki/Notes_on_the_Synthesis_of_Form",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "ee625ae1-2081-43d3-894c-77c527b6742f",
+    "sources": [
+        "/home/wesleyac/projects/notebook/data/archivebox/sources/1765136789-import.txt"
+    ],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1765136789.546836",
+    "title": "Notes on the Synthesis of Form - Wikipedia",
+    "updated": "2025-12-07T19:51:05.939176+00:00",
+    "updated_date": "2025-12-07 19:51",
+    "url": "https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form"
+}

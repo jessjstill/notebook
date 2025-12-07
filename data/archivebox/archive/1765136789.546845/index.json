@@ -1,0 +1,226 @@
+{
+    "archive_path": "archive/1765136789.546845",
+    "base_url": "en.wikipedia.org/wiki/Deaths_linked_to_chatbots",
+    "basename": "Deaths_linked_to_chatbots",
+    "bookmarked_date": "2025-12-07 19:46",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/en.wikipedia.org/wiki/Deaths_linked_to_chatbots",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=en.wikipedia.org",
+        "headers_path": "headers.json",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "en.wikipedia.org",
+    "extension": "",
+    "hash": "164FC41VV0RAS0JN96QX",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://web.archive.org/save/https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:52:45.334771+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:52:08.874096+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--dump-dom",
+                    "https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:52:08.859642+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:52:07.995159+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=en.wikipedia.org"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:52:00.248199+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:52:00.106786+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:52:00.370589+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:52:00.268081+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "media": [],
+        "mercury": [],
+        "pdf": [],
+        "readability": [],
+        "screenshot": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--screenshot",
+                    "https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:52:07.981488+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:52:06.894575+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/home/wesleyac/projects/notebook/data/archivebox/node_modules/single-file/cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\"--headless\", \"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)\", \"--window-size=1440,2000\"]",
+                    "https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots",
+                    "singlefile.html"
+                ],
+                "cmd_version": "0.3.31",
+                "end_ts": "2025-12-07T19:52:06.879256+00:00",
+                "index_texts": null,
+                "output": "singlefile.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:52:00.384644+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:52:00.093426+00:00",
+                "index_texts": null,
+                "output": "Deaths linked to chatbots - Wikipedia",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:51:59.971093+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": []
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": null,
+        "pdf": null,
+        "screenshot": "screenshot.png",
+        "singlefile": "singlefile.html",
+        "title": "Deaths linked to chatbots - Wikipedia",
+        "warc": null,
+        "wget": null
+    },
+    "link_dir": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546845",
+    "newest_archive_date": "2025-12-07T19:52:08.874096+00:00",
+    "num_failures": 1,
+    "num_outputs": 6,
+    "oldest_archive_date": "2025-12-07T19:51:59.971093+00:00",
+    "path": "/wiki/Deaths_linked_to_chatbots",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "ee3d5d1f-d17d-48f9-92fd-53859a8b3a3d",
+    "sources": [
+        "/home/wesleyac/projects/notebook/data/archivebox/sources/1765136789-import.txt"
+    ],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1765136789.546845",
+    "title": "Deaths linked to chatbots - Wikipedia",
+    "updated": "2025-12-07T19:51:59.968955+00:00",
+    "updated_date": "2025-12-07 19:51",
+    "url": "https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots"
+}

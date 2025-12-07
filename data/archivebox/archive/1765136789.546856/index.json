@@ -1,0 +1,226 @@
+{
+    "archive_path": "archive/1765136789.546856",
+    "base_url": "docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk",
+    "basename": "edit",
+    "bookmarked_date": "2025-12-07 19:46",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=docs.google.com",
+        "headers_path": "headers.json",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "docs.google.com",
+    "extension": "",
+    "hash": "DBAB4ZYCW7N6G6J9YFXK",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://web.archive.org/save/https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:54:52.876786+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251207195418/https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:54:15.232380+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--dump-dom",
+                    "https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:54:15.218654+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:54:12.454244+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=docs.google.com"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:53:02.132313+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:53:02.002760+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:53:02.635652+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:53:02.148261+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "media": [],
+        "mercury": [],
+        "pdf": [],
+        "readability": [],
+        "screenshot": [
+            {
+                "cmd": [
+                    "chromium-browser",
+                    "--headless",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--timeout=90000",
+                    "--screenshot",
+                    "https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk"
+                ],
+                "cmd_version": "Chromium 142.0.7444.175",
+                "end_ts": "2025-12-07T19:54:12.439896+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:54:09.332549+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/home/wesleyac/projects/notebook/data/archivebox/node_modules/single-file/cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\"--headless\", \"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/{VERSION} (+https://github.com/ArchiveBox/ArchiveBox/)\", \"--window-size=1440,2000\"]",
+                    "https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk",
+                    "singlefile.html"
+                ],
+                "cmd_version": "0.3.31",
+                "end_ts": "2025-12-07T19:54:09.318032+00:00",
+                "index_texts": null,
+                "output": "singlefile.html",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:53:02.652075+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "90",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 ArchiveBox/0.6.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 7.76.1 (x86_64-pc-linux-gnu)",
+                    "https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk"
+                ],
+                "cmd_version": "curl 7.76.1 (x86_64-pc-linux-gnu)",
+                "end_ts": "2025-12-07T19:53:01.984617+00:00",
+                "index_texts": null,
+                "output": "Resonant Computing Theses - Google Docs",
+                "pwd": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-12-07T19:53:01.631484+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": []
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251207195418/https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": null,
+        "pdf": null,
+        "screenshot": "screenshot.png",
+        "singlefile": "singlefile.html",
+        "title": "Resonant Computing Theses - Google Docs",
+        "warc": null,
+        "wget": null
+    },
+    "link_dir": "/home/wesleyac/projects/notebook/data/archivebox/archive/1765136789.546856",
+    "newest_archive_date": "2025-12-07T19:54:15.232380+00:00",
+    "num_failures": 0,
+    "num_outputs": 7,
+    "oldest_archive_date": "2025-12-07T19:53:01.631484+00:00",
+    "path": "/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "5a9fd16b-a5d3-41cb-b0dc-c98ad64b8c95",
+    "sources": [
+        "/home/wesleyac/projects/notebook/data/archivebox/sources/1765136789-import.txt"
+    ],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1765136789.546856",
+    "title": "Resonant Computing Theses - Google Docs",
+    "updated": "2025-12-07T19:53:01.629224+00:00",
+    "updated_date": "2025-12-07 19:53",
+    "url": "https://docs.google.com/document/d/1ZQcDjzaNQtS8ucpAjSXLaEW1mMbQC8n8-1wrvNnXbgQ/edit?tab=t.0#heading=h.q57nt2225ryk"
+}
