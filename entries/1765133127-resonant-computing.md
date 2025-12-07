@@ -18,7 +18,7 @@ This sounds nice!
 
 > We shape our environments, and thereafter they shape us.
 
-I'm sorry to be an asshole off the bat, but do the authors not know what the word "therefore" means? I do agree that people both shape their environments and are shaped by their environments, but the word "therefore" is used to indicate a causality that does not actually exist in this relationship.
+Did our environments not shape us before we shaped them? It seems obviously true that we shape our environments and our environments shape us, I do not see how that relates to the rest of this project or why it is phrased in this way.
 
 > Great technology does more than solve problems. It weaves itself into the world we inhabit. At its best, it can expand our capacity, our connectedness, our sense of what's possible. Technology can bring out the best in us.
 
