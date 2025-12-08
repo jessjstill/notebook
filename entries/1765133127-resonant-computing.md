@@ -65,7 +65,7 @@ I am once again asking for a single example of what the fuck you are talking abo
 
 > One-size-fits-all is no longer a technological or economic necessity. Where once our digital environments inevitably shaped us against our will, we can now build technology that adaptively shapes itself in service of our individual and collective aspirations.
 
-If "AI" is going to enable us to build technology that is no longer shaped against our will, why is AI getting added to every fucking thing I interact with on the web despite me not wanting it to be there at all? Isn't that literally the kind of removal of choice in technology that you are supposedly concerned about?
+If "AI" is going to enable us to build technology that is no longer shaped against our will, why are LLMs getting added to every fucking thing I interact with on the web despite me not wanting them to be there at all? Isn't that literally the kind of removal of choice in technology that you are supposedly concerned about?
 
 > We can build resonant environments that bring out the best in every human who inhabits them.
 
