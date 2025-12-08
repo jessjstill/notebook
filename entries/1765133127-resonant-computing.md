@@ -6,7 +6,7 @@
 ---
 # The "Resonant Computing Manifesto" is not very good
 
-A friend informed me recently of [The Resonant Computing Manifesto](https://resonantcomputing.org/) — the latest from the "malleable systems"/"digital gardening"/"knowledge systems" folks, who appear to every few years need a fancy new term to describe the utopia that they're going to build any day now. In this most recent iteration, "AI" will lead us to this utopia, but only if we are careful to follow the principles they are laying out.
+A friend informed me recently of [The Resonant Computing Manifesto](https://resonantcomputing.org/) — the latest from the "malleable systems"&#8203;/&#8203;"digital gardening"&#8203;/&#8203;"knowledge systems" folks, who appear to every few years need a fancy new term to describe the utopia that they're going to build any day now. In this most recent iteration, "AI" will lead us to this utopia, but only if we are careful to follow the principles they are laying out.
 
 In this post, I'm going to go through the entire manifesto, and point out the things that I find suspect. It feels a bit rude sometimes to do a close reading of a text that is not very rigorously thought through, but I hope that the authors are able to appreciate that doing this sort of reading is taking their ideas seriously, and I hope that they are willing to take their own ideas seriously enough to consider them. I will quote the entire article here, so as not to take anything out of context.
 
