@@ -11,10 +11,14 @@
             "id": "3c8b49bc3d1024c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "entries/1594164910-introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1594164910-introduction"
             }
           }
         ]
@@ -183,8 +187,9 @@
   },
   "active": "3c8b49bc3d1024c3",
   "lastOpenFiles": [
-    "QUICKSTART.md",
+    "static/icons/history.svg",
     "entries/1594164910-introduction.md",
+    "QUICKSTART.md",
     "static/img/rc.svg",
     "fonts/EBGaramond-VariableFont_wght.ttf",
     "fonts/EBGaramond-Italic-VariableFont_wght.ttf",
@@ -204,7 +209,6 @@
     "static/android-chrome-192x192.png",
     "static/img/xxiivv.svg",
     "static/img/tarot/cups01.jpg",
-    "static/icons/history.svg",
     "README.md",
     "entries/1594766911-font-licensing.md",
     "entries/1594184892-hermit-magician.md"
