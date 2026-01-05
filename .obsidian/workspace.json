@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "119e86b4b4fdad6d",
+        "id": "d0af344dc4289c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "68beea128d3532d6",
+            "id": "3c8b49bc3d1024c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entries/1594164910-introduction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1594164910-introduction"
+              "title": "New tab"
             }
           }
         ]
@@ -174,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68beea128d3532d6",
+  "active": "3c8b49bc3d1024c3",
   "lastOpenFiles": [
+    "QUICKSTART.md",
+    "entries/1594164910-introduction.md",
     "static/img/rc.svg",
     "fonts/EBGaramond-VariableFont_wght.ttf",
     "fonts/EBGaramond-Italic-VariableFont_wght.ttf",
@@ -208,7 +207,6 @@
     "static/icons/history.svg",
     "README.md",
     "entries/1594766911-font-licensing.md",
-    "entries/1594184892-hermit-magician.md",
-    "entries/1594164910-introduction.md"
+    "entries/1594184892-hermit-magician.md"
   ]
 }
