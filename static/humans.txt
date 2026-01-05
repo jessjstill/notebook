@@ -1,9 +1,8 @@
-Wesley's Notebook
+Jess' Notebook
 ~~~
-by Wesley Aptekar-Cassels
-inspired by David R. MacIver's notebook
+by Jess
+inspired by Wesley Aptekar-Cassels and David R. MacIver's notebooks
 with CSS based on tufte-css by Dave Liepmann
 and fonts by Jackson Showalter-Cavanaugh and Emily Jing Sum Chan
-additional thanks to Evy Kassirer for writing review and inspiration
 
 <3
