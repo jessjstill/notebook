@@ -11,12 +11,10 @@
             "id": "68beea128d3532d6",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "static/icons/history.svg"
-              },
-              "icon": "lucide-image",
-              "title": "history"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/icons/history.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for history"
+              "title": "Backlinks"
             }
           },
           {
@@ -111,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/icons/history.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from history"
+              "title": "Outgoing links"
             }
           },
           {
@@ -154,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/icons/history.svg",
+                "file": "static/img/rc.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of history"
+              "title": "Outline of rc"
             }
           }
         ]
@@ -182,8 +178,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68beea128d3532d6",
+  "active": "289ee34a80e3f881",
   "lastOpenFiles": [
+    "fonts",
+    "static/fleuron.png",
+    "static/favicon-32x32.png",
+    "static/favicon-16x16.png",
+    "static/apple-touch-icon.png",
+    "static/android-chrome-512x512.png",
+    "static/android-chrome-192x192.png",
+    "static/img/rc.svg",
+    "static/img/xxiivv.svg",
+    "static/img/tarot/cups01.jpg",
+    "static/icons/history.svg",
     "static/files/omelas.pdf",
     "static/files/10117359.pdf",
     "README.md",
